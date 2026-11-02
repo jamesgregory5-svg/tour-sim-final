@@ -1,0 +1,19 @@
+augusta fail https://overpass-api.de/api/interpreter HTTP Error 502: Bad Gateway
+augusta fail https://overpass-api.de/api/interpreter HTTP Error 502: Bad Gateway
+augusta fail https://overpass.private.coffee/api/interpreter HTTP Error 504: Gateway Timeout
+augusta 1744181 https://overpass-api.de/api/interpreter
+shinnecock fail https://overpass-api.de/api/interpreter HTTP Error 502: Bad Gateway
+shinnecock 1816731 https://overpass-api.de/api/interpreter
+merion fail https://overpass-api.de/api/interpreter HTTP Error 502: Bad Gateway
+merion fail https://overpass-api.de/api/interpreter HTTP Error 502: Bad Gateway
+merion 969551 https://overpass.private.coffee/api/interpreter
+sandhills 1160963 https://overpass-api.de/api/interpreter
+fishers 645810 https://overpass-api.de/api/interpreter
+seminole 718839 https://overpass-api.de/api/interpreter
+friars 1190603 https://overpass-api.de/api/interpreter
+lacc 1162102 https://overpass-api.de/api/interpreter
+riviera 824418 https://overpass-api.de/api/interpreter
+oaklandhills 1051339 https://overpass-api.de/api/interpreter
+peachtree 414001 https://overpass-api.de/api/interpreter
+shadowcreek 1626146 https://overpass-api.de/api/interpreter
+lookaway 688464 https://overpass-api.de/api/interpreter

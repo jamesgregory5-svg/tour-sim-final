@@ -1,0 +1,2 @@
+pinevalley fail https://overpass-api.de/api/interpreter HTTP Error 502: Bad Gateway
+pinevalley fail https://overpass.kumi.systems/api/interpreter The read operation timed out

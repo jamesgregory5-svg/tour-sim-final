@@ -1,0 +1,666 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-21T20:39:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 854913181,
+  "bounds": {
+    "minlat": 33.5023849,
+    "minlon": -82.0235067,
+    "maxlat": 33.5044748,
+    "maxlon": -82.0199186
+  },
+  "geometry": [
+    { "lat": 33.5023849, "lon": -82.0199186 },
+    { "lat": 33.5035857, "lon": -82.0224546 },
+    { "lat": 33.5044748, "lon": -82.0235067 }
+  ],
+  "tags": {
+    "description": "Augusta Hole 1",
+    "golf": "hole",
+    "golf:course:name": "Augusta National",
+    "handicap": "9",
+    "name": "Tea Olive",
+    "par": "4",
+    "ref": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 854913182,
+  "bounds": {
+    "minlat": 33.5022898,
+    "minlon": -82.0240973,
+    "maxlat": 33.5044995,
+    "maxlon": -82.0206469
+  },
+  "geometry": [
+    { "lat": 33.5044995, "lon": -82.0240973 },
+    { "lat": 33.5024471, "lon": -82.0219972 },
+    { "lat": 33.5022898, "lon": -82.0206469 }
+  ],
+  "tags": {
+    "description": "Augusta Hole 9",
+    "golf": "hole",
+    "golf:course:name": "Augusta National",
+    "handicap": "7",
+    "name": "Carolina Cherry",
+    "par": "4",
+    "ref": "9"
+  }
+},
+{
+  "type": "way",
+  "id": 854915607,
+  "bounds": {
+    "minlat": 33.5003571,
+    "minlon": -82.0247195,
+    "maxlat": 33.5048036,
+    "maxlon": -82.0235042
+  },
+  "geometry": [
+    { "lat": 33.5048036, "lon": -82.0242081 },
+    { "lat": 33.5023169, "lon": -82.0247195 },
+    { "lat": 33.5008236, "lon": -82.0240768 },
+    { "lat": 33.5003571, "lon": -82.0235042 }
+  ],
+  "tags": {
+    "description": "Augusta Hole 2",
+    "golf": "hole",
+    "golf:course:name": "Augusta National",
+    "handicap": "1",
+    "name": "Pink Dogwood",
+    "par": "5",
+    "ref": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 854940639,
+  "bounds": {
+    "minlat": 33.4998361,
+    "minlon": -82.0260059,
+    "maxlat": 33.5016920,
+    "maxlon": -82.0234579
+  },
+  "geometry": [
+    { "lat": 33.4998361, "lon": -82.0234579 },
+    { "lat": 33.5010704, "lon": -82.0253664 },
+    { "lat": 33.5016920, "lon": -82.0260059 }
+  ],
+  "tags": {
+    "description": "Augusta Hole 3",
+    "golf": "hole",
+    "golf:course:name": "Augusta National",
+    "handicap": "13",
+    "name": "Flowering Peach",
+    "par": "4",
+    "ref": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 854940645,
+  "bounds": {
+    "minlat": 33.5018639,
+    "minlon": -82.0279733,
+    "maxlat": 33.5020108,
+    "maxlon": -82.0255710
+  },
+  "geometry": [
+    { "lat": 33.5020108, "lon": -82.0255710 },
+    { "lat": 33.5019156, "lon": -82.0271716 },
+    { "lat": 33.5018639, "lon": -82.0279733 }
+  ],
+  "tags": {
+    "description": "Augusta Hole 4",
+    "golf": "hole",
+    "golf:course:name": "Augusta National",
+    "handicap": "15",
+    "name": "Flowering Crab Apple",
+    "par": "3",
+    "ref": "4"
+  }
+},
+{
+  "type": "way",
+  "id": 854940652,
+  "bounds": {
+    "minlat": 33.4983597,
+    "minlon": -82.0285152,
+    "maxlat": 33.5022032,
+    "maxlon": -82.0274319
+  },
+  "geometry": [
+    { "lat": 33.5022032, "lon": -82.0285152 },
+    { "lat": 33.4996660, "lon": -82.0283756 },
+    { "lat": 33.4993492, "lon": -82.0281490 },
+    { "lat": 33.4983597, "lon": -82.0274319 }
+  ],
+  "tags": {
+    "description": "Augusta Hole 5",
+    "golf": "hole",
+    "golf:course:name": "Augusta National",
+    "handicap": "5",
+    "name": "Magnolia",
+    "par": "4",
+    "ref": "5"
+  }
+},
+{
+  "type": "way",
+  "id": 854940657,
+  "bounds": {
+    "minlat": 33.4988402,
+    "minlon": -82.0273017,
+    "maxlat": 33.5003250,
+    "maxlon": -82.0268445
+  },
+  "geometry": [
+    { "lat": 33.4988402, "lon": -82.0273017 },
+    { "lat": 33.4999608, "lon": -82.0269567 },
+    { "lat": 33.5003250, "lon": -82.0268445 }
+  ],
+  "tags": {
+    "description": "Augusta Hole 6",
+    "golf": "hole",
+    "golf:course:name": "Augusta National",
+    "handicap": "17",
+    "name": "Juniper",
+    "par": "3",
+    "ref": "6"
+  }
+},
+{
+  "type": "way",
+  "id": 854949697,
+  "bounds": {
+    "minlat": 33.4994882,
+    "minlon": -82.0274185,
+    "maxlat": 33.5009180,
+    "maxlon": -82.0233411
+  },
+  "geometry": [
+    { "lat": 33.5009180, "lon": -82.0274185 },
+    { "lat": 33.5000672, "lon": -82.0248936 },
+    { "lat": 33.4994882, "lon": -82.0233411 }
+  ],
+  "tags": {
+    "description": "Augusta Hole 7",
+    "golf": "hole",
+    "golf:course:name": "Augusta National",
+    "handicap": "11",
+    "name": "Pampas",
+    "par": "4",
+    "ref": "7"
+  }
+},
+{
+  "type": "way",
+  "id": 855188617,
+  "bounds": {
+    "minlat": 33.4992188,
+    "minlon": -82.0237242,
+    "maxlat": 33.5037257,
+    "maxlon": -82.0223580
+  },
+  "geometry": [
+    { "lat": 33.4992188, "lon": -82.0223580 },
+    { "lat": 33.5016882, "lon": -82.0233051 },
+    { "lat": 33.5032766, "lon": -82.0233906 },
+    { "lat": 33.5037257, "lon": -82.0237242 }
+  ],
+  "tags": {
+    "description": "Augusta Hole 8",
+    "golf": "hole",
+    "golf:course:name": "Augusta National",
+    "handicap": "3",
+    "name": "Yellow Jasmine",
+    "par": "5",
+    "ref": "8"
+  }
+},
+{
+  "type": "way",
+  "id": 855188624,
+  "bounds": {
+    "minlat": 33.4980567,
+    "minlon": -82.0206711,
+    "maxlat": 33.5020501,
+    "maxlon": -82.0196791
+  },
+  "geometry": [
+    { "lat": 33.5020501, "lon": -82.0196791 },
+    { "lat": 33.4999647, "lon": -82.0206711 },
+    { "lat": 33.4980567, "lon": -82.0204378 }
+  ],
+  "tags": {
+    "description": "Augusta Hole 10",
+    "golf": "hole",
+    "golf:course:name": "Augusta National",
+    "handicap": "6",
+    "name": "Camellia",
+    "par": "4",
+    "ref": "10"
+  }
+},
+{
+  "type": "way",
+  "id": 855657864,
+  "bounds": {
+    "minlat": 33.4951912,
+    "minlon": -82.0221736,
+    "maxlat": 33.4986139,
+    "maxlon": -82.0189876
+  },
+  "geometry": [
+    { "lat": 33.4986139, "lon": -82.0189876 },
+    { "lat": 33.4961340, "lon": -82.0209674 },
+    { "lat": 33.4951912, "lon": -82.0221736 }
+  ],
+  "tags": {
+    "description": "Augusta Hole 11",
+    "golf": "hole",
+    "golf:course:name": "Augusta National",
+    "handicap": "8",
+    "name": "White Dogwood",
+    "par": "4",
+    "ref": "11"
+  }
+},
+{
+  "type": "way",
+  "id": 855657869,
+  "bounds": {
+    "minlat": 33.4945184,
+    "minlon": -82.0231676,
+    "maxlat": 33.4956343,
+    "maxlon": -82.0224077
+  },
+  "geometry": [
+    { "lat": 33.4956343, "lon": -82.0224077 },
+    { "lat": 33.4945184, "lon": -82.0231676 }
+  ],
+  "tags": {
+    "description": "Augusta Hole 12",
+    "golf": "hole",
+    "golf:course:name": "Augusta National",
+    "handicap": "16",
+    "name": "Golden Bell",
+    "par": "3",
+    "ref": "12"
+  }
+},
+{
+  "type": "way",
+  "id": 855657881,
+  "bounds": {
+    "minlat": 33.4937368,
+    "minlon": -82.0255554,
+    "maxlat": 33.4970834,
+    "maxlon": -82.0235188
+  },
+  "geometry": [
+    { "lat": 33.4937368, "lon": -82.0235188 },
+    { "lat": 33.4961476, "lon": -82.0235263 },
+    { "lat": 33.4970343, "lon": -82.0249291 },
+    { "lat": 33.4970834, "lon": -82.0255554 }
+  ],
+  "tags": {
+    "description": "Augusta Hole 13",
+    "golf": "hole",
+    "golf:course:name": "Augusta National",
+    "handicap": "4",
+    "name": "Azalea",
+    "par": "5",
+    "ref": "13"
+  }
+},
+{
+  "type": "way",
+  "id": 855658985,
+  "bounds": {
+    "minlat": 33.4972308,
+    "minlon": -82.0256074,
+    "maxlat": 33.4975425,
+    "maxlon": -82.0213511
+  },
+  "geometry": [
+    { "lat": 33.4975425, "lon": -82.0256074 },
+    { "lat": 33.4972308, "lon": -82.0229418 },
+    { "lat": 33.4972728, "lon": -82.0226291 },
+    { "lat": 33.4974446, "lon": -82.0213511 }
+  ],
+  "tags": {
+    "description": "Augusta Hole 14",
+    "golf": "hole",
+    "golf:course:name": "Augusta National",
+    "handicap": "12",
+    "name": "Chinese Fir",
+    "par": "4",
+    "ref": "14"
+  }
+},
+{
+  "type": "way",
+  "id": 856563246,
+  "bounds": {
+    "minlat": 33.4975859,
+    "minlon": -82.0255960,
+    "maxlat": 33.4988953,
+    "maxlon": -82.0203715
+  },
+  "geometry": [
+    { "lat": 33.4975859, "lon": -82.0203715 },
+    { "lat": 33.4983501, "lon": -82.0233942 },
+    { "lat": 33.4988953, "lon": -82.0255960 }
+  ],
+  "tags": {
+    "description": "Augusta Hole 15",
+    "golf": "hole",
+    "golf:course:name": "Augusta National",
+    "handicap": "2",
+    "name": "Firethorn",
+    "par": "5",
+    "ref": "15"
+  }
+},
+{
+  "type": "way",
+  "id": 856563253,
+  "bounds": {
+    "minlat": 33.4982545,
+    "minlon": -82.0264920,
+    "maxlat": 33.4995799,
+    "maxlon": -82.0257651
+  },
+  "geometry": [
+    { "lat": 33.4982545, "lon": -82.0257651 },
+    { "lat": 33.4993960, "lon": -82.0263916 },
+    { "lat": 33.4995799, "lon": -82.0264920 }
+  ],
+  "tags": {
+    "description": "Augusta Hole 16",
+    "golf": "hole",
+    "golf:course:name": "Augusta National",
+    "handicap": "18",
+    "name": "Redbud",
+    "par": "3",
+    "ref": "16"
+  }
+},
+{
+  "type": "way",
+  "id": 856563261,
+  "bounds": {
+    "minlat": 33.4987770,
+    "minlon": -82.0264422,
+    "maxlat": 33.4998736,
+    "maxlon": -82.0221667
+  },
+  "geometry": [
+    { "lat": 33.4998736, "lon": -82.0264422 },
+    { "lat": 33.4991006, "lon": -82.0238306 },
+    { "lat": 33.4987770, "lon": -82.0221667 }
+  ],
+  "tags": {
+    "description": "Augusta Hole 17",
+    "golf": "hole",
+    "golf:course:name": "Augusta National",
+    "handicap": "14",
+    "name": "Nandina",
+    "par": "4",
+    "ref": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 856563268,
+  "bounds": {
+    "minlat": 33.4982291,
+    "minlon": -82.0216757,
+    "maxlat": 33.5018802,
+    "maxlon": -82.0205085
+  },
+  "geometry": [
+    { "lat": 33.4982291, "lon": -82.0216757 },
+    { "lat": 33.5006156, "lon": -82.0214758 },
+    { "lat": 33.5006948, "lon": -82.0214522 },
+    { "lat": 33.5018802, "lon": -82.0205085 }
+  ],
+  "tags": {
+    "description": "Augusta Hole 18",
+    "golf": "hole",
+    "golf:course:name": "Augusta National",
+    "handicap": "10",
+    "name": "Holly",
+    "par": "4",
+    "ref": "18"
+  }
+},
+{
+  "type": "way",
+  "id": 944242943,
+  "bounds": {
+    "minlat": 33.5029335,
+    "minlon": -82.0177644,
+    "maxlat": 33.5036801,
+    "maxlon": -82.0173516
+  },
+  "geometry": [
+    { "lat": 33.5029335, "lon": -82.0173516 },
+    { "lat": 33.5036801, "lon": -82.0177644 }
+  ],
+  "tags": {
+    "golf": "hole",
+    "golf:course:name": "Par 3 Course",
+    "par": "3",
+    "ref": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 944242945,
+  "bounds": {
+    "minlat": 33.5031657,
+    "minlon": -82.0168616,
+    "maxlat": 33.5036571,
+    "maxlon": -82.0161720
+  },
+  "geometry": [
+    { "lat": 33.5036571, "lon": -82.0168616 },
+    { "lat": 33.5031657, "lon": -82.0161720 }
+  ],
+  "tags": {
+    "golf": "hole",
+    "golf:course:name": "Par 3 Course",
+    "par": "3",
+    "ref": "4"
+  }
+},
+{
+  "type": "way",
+  "id": 944242946,
+  "bounds": {
+    "minlat": 33.5019423,
+    "minlon": -82.0159711,
+    "maxlat": 33.5032683,
+    "maxlon": -82.0158648
+  },
+  "geometry": [
+    { "lat": 33.5032683, "lon": -82.0158648 },
+    { "lat": 33.5019423, "lon": -82.0159711 }
+  ],
+  "tags": {
+    "golf": "hole",
+    "golf:course:name": "Par 3 Course",
+    "par": "3",
+    "ref": "5"
+  }
+},
+{
+  "type": "way",
+  "id": 944242947,
+  "bounds": {
+    "minlat": 33.5012660,
+    "minlon": -82.0166708,
+    "maxlat": 33.5024188,
+    "maxlon": -82.0160013
+  },
+  "geometry": [
+    { "lat": 33.5012660, "lon": -82.0160013 },
+    { "lat": 33.5024188, "lon": -82.0166708 }
+  ],
+  "tags": {
+    "golf": "hole",
+    "golf:course:name": "Par 3 Course",
+    "par": "3",
+    "ref": "6"
+  }
+},
+{
+  "type": "way",
+  "id": 944242948,
+  "bounds": {
+    "minlat": 33.5019152,
+    "minlon": -82.0180503,
+    "maxlat": 33.5022739,
+    "maxlon": -82.0169860
+  },
+  "geometry": [
+    { "lat": 33.5022739, "lon": -82.0169860 },
+    { "lat": 33.5019152, "lon": -82.0180503 }
+  ],
+  "tags": {
+    "golf": "hole",
+    "golf:course:name": "Par 3 Course",
+    "par": "3",
+    "ref": "7"
+  }
+},
+{
+  "type": "way",
+  "id": 944242949,
+  "bounds": {
+    "minlat": 33.5012462,
+    "minlon": -82.0183316,
+    "maxlat": 33.5013786,
+    "maxlon": -82.0171519
+  },
+  "geometry": [
+    { "lat": 33.5012462, "lon": -82.0183316 },
+    { "lat": 33.5013786, "lon": -82.0171519 }
+  ],
+  "tags": {
+    "golf": "hole",
+    "golf:course:name": "Par 3 Course",
+    "par": "3",
+    "ref": "8"
+  }
+},
+{
+  "type": "way",
+  "id": 944242950,
+  "bounds": {
+    "minlat": 33.5009352,
+    "minlon": -82.0178753,
+    "maxlat": 33.5011946,
+    "maxlon": -82.0165456
+  },
+  "geometry": [
+    { "lat": 33.5011946, "lon": -82.0165456 },
+    { "lat": 33.5009352, "lon": -82.0178753 }
+  ],
+  "tags": {
+    "golf": "hole",
+    "golf:course:name": "Par 3 Course",
+    "par": "3",
+    "ref": "9"
+  }
+},
+{
+  "type": "way",
+  "id": 1481322513,
+  "bounds": {
+    "minlat": 33.5032493,
+    "minlon": -82.0176162,
+    "maxlat": 33.5039070,
+    "maxlon": -82.0169436
+  },
+  "geometry": [
+    { "lat": 33.5039070, "lon": -82.0176162 },
+    { "lat": 33.5032493, "lon": -82.0169436 }
+  ],
+  "tags": {
+    "golf": "hole",
+    "golf:course:name": "Par 3 Course",
+    "par": "3",
+    "ref": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 1481448305,
+  "bounds": {
+    "minlat": 33.5023964,
+    "minlon": -82.0181769,
+    "maxlat": 33.5028326,
+    "maxlon": -82.0169394
+  },
+  "geometry": [
+    { "lat": 33.5023964, "lon": -82.0181769 },
+    { "lat": 33.5028326, "lon": -82.0169394 }
+  ],
+  "tags": {
+    "golf": "hole",
+    "golf:course:name": "Par 3 Course",
+    "par": "3",
+    "ref": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1487084970,
+  "bounds": {
+    "minlat": 33.4925706,
+    "minlon": -82.0237438,
+    "maxlat": 33.4952254,
+    "maxlon": -82.0204375
+  },
+  "geometry": [
+    { "lat": 33.4952254, "lon": -82.0204375 },
+    { "lat": 33.4935778, "lon": -82.0217612 },
+    { "lat": 33.4925706, "lon": -82.0237438 }
+  ],
+  "tags": {
+    "golf": "hole",
+    "ref": "9"
+  }
+},
+{
+  "type": "way",
+  "id": 1487084971,
+  "bounds": {
+    "minlat": 33.4910836,
+    "minlon": -82.0229155,
+    "maxlat": 33.4951552,
+    "maxlon": -82.0197075
+  },
+  "geometry": [
+    { "lat": 33.4910836, "lon": -82.0229155 },
+    { "lat": 33.4951552, "lon": -82.0197075 }
+  ],
+  "tags": {
+    "golf": "hole",
+    "ref": "8"
+  }
+}
+
+  ]
+}

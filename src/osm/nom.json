@@ -1,0 +1,451 @@
+{
+ "pinevalley": [
+  {
+   "name": "Pine Valley Road, Westlake Golf and Country Club, Jackson Township, Ocean County",
+   "bb": [
+    "40.1046116",
+    "40.1063995",
+    "-74.2955885",
+    "-74.2906046"
+   ],
+   "cls": "highway/residential"
+  }
+ ],
+ "augusta": [
+  {
+   "name": "Augusta National Golf Club, 2604, Washington Road, Windsor Court, National Hills",
+   "bb": [
+    "33.4930529",
+    "33.5088489",
+    "-82.0309711",
+    "-82.0147293"
+   ],
+   "cls": "leisure/golf_course"
+  }
+ ],
+ "cypress": [
+  {
+   "name": "Kiawah Island Club - River Course, Turtle Point Lane, Cypress Point, Kiawah Isla",
+   "bb": [
+    "32.6029668",
+    "32.6148185",
+    "-80.1043857",
+    "-80.0871938"
+   ],
+   "cls": "leisure/golf_course"
+  },
+  {
+   "name": "Cypress Point, The Island Club, Saint Simon Mills, St. Simons, Glynn County, Geo",
+   "bb": [
+    "31.1622380",
+    "31.1639943",
+    "-81.4056065",
+    "-81.4027661"
+   ],
+   "cls": "highway/residential"
+  },
+  {
+   "name": "Cypress Point, The Island Club, Jewtown, St. Simons, Glynn County, Georgia, 3152",
+   "bb": [
+    "31.1603839",
+    "31.1623928",
+    "-81.4038425",
+    "-81.4033129"
+   ],
+   "cls": "highway/residential"
+  }
+ ],
+ "shinnecock": [
+  {
+   "name": "Shinnecock Hills Golf Club, 200, Tuckahoe Road, Tuckahoe, Town of Southampton, S",
+   "bb": [
+    "40.8939802",
+    "40.8942316",
+    "-72.4402106",
+    "-72.4393845"
+   ],
+   "cls": "building/yes"
+  },
+  {
+   "name": "Shinnecock Hills Golf Club, 200, Tuckahoe Road, Tuckahoe, Town of Southampton, S",
+   "bb": [
+    "40.8914212",
+    "40.9021118",
+    "-72.4465433",
+    "-72.4330589"
+   ],
+   "cls": "leisure/golf_course"
+  }
+ ],
+ "oakmont": [
+  {
+   "name": "Oakmont Country Club, Oak Meadow Drive, Oakmont, Allegheny County, Pennsylvania,",
+   "bb": [
+    "40.5246454",
+    "40.5334496",
+    "-79.8338234",
+    "-79.8161207"
+   ],
+   "cls": "leisure/golf_course"
+  },
+  {
+   "name": "Oakmont Country Club, La Crescenta Avenue, Sparr Heights, Glendale, Los Angeles ",
+   "bb": [
+    "34.1919956",
+    "34.2020109",
+    "-118.2376608",
+    "-118.2280356"
+   ],
+   "cls": "leisure/golf_course"
+  },
+  {
+   "name": "Oakmont Country Club, 1200, Clubhouse Drive, Corinth, Denton County, Texas, 7621",
+   "bb": [
+    "33.1434734",
+    "33.1633429",
+    "-97.0951618",
+    "-97.0809577"
+   ],
+   "cls": "leisure/golf_course"
+  }
+ ],
+ "merion": [
+  {
+   "name": "Merion Circle, Northville Hills Golf Club Sub, Northville Charter Township, Wayn",
+   "bb": [
+    "42.4021230",
+    "42.4032304",
+    "-83.5082164",
+    "-83.5039365"
+   ],
+   "cls": "highway/residential"
+  },
+  {
+   "name": "Merion Boulevard, Northville Hills Golf Club Sub, Northville Charter Township, W",
+   "bb": [
+    "42.4022056",
+    "42.4028708",
+    "-83.5032395",
+    "-83.4997990"
+   ],
+   "cls": "highway/residential"
+  },
+  {
+   "name": "Merion Court, Northville Hills Golf Club Sub, Northville Charter Township, Wayne",
+   "bb": [
+    "42.4003014",
+    "42.4012792",
+    "-83.5016553",
+    "-83.4997657"
+   ],
+   "cls": "highway/residential"
+  }
+ ],
+ "ngla": [
+  {
+   "name": "National Golf Links of America, Ram Island Drive, Tuckahoe, Town of Southampton,",
+   "bb": [
+    "40.8954014",
+    "40.9172489",
+    "-72.4567468",
+    "-72.4417434"
+   ],
+   "cls": "leisure/golf_course"
+  },
+  {
+   "name": "National Golf Links of America, 149, Sebonac Inlet Road, Tuckahoe, Town of South",
+   "bb": [
+    "40.9133787",
+    "40.9138680",
+    "-72.4539687",
+    "-72.4533871"
+   ],
+   "cls": "building/yes"
+  }
+ ],
+ "sandhills": [
+  {
+   "name": "Sand Hills Golf Club, 36430, Sand Hills Road, Hooker County, Nebraska, 69152, Un",
+   "bb": [
+    "41.8645499",
+    "41.8761289",
+    "-101.1134839",
+    "-101.0876703"
+   ],
+   "cls": "leisure/golf_course"
+  }
+ ],
+ "pebble": [
+  {
+   "name": "Pebble Beach Golf Links, 1700, 17 Mile Drive, Pebble Beach, Del Monte Forest, Mo",
+   "bb": [
+    "36.5694535",
+    "36.5698655",
+    "-121.9499875",
+    "-121.9495452"
+   ],
+   "cls": "amenity/restaurant"
+  }
+ ],
+ "fishers": [
+  {
+   "name": "Fishers Island Club, Castle Road, Town of Southold, Suffolk County, New York, Un",
+   "bb": [
+    "41.2783030",
+    "41.2914229",
+    "-71.9497631",
+    "-71.9312434"
+   ],
+   "cls": "leisure/golf_course"
+  }
+ ],
+ "chicago": [],
+ "seminole": [
+  {
+   "name": "Seminole Golf Club, Juno Beach, Palm Beach County, Florida, 33408, United States",
+   "bb": [
+    "26.8591663",
+    "26.8599553",
+    "-80.0474895",
+    "-80.0471854"
+   ],
+   "cls": "highway/service"
+  },
+  {
+   "name": "Seminole Golf Club, 901, Seminole Boulevard, Juno Beach, Palm Beach County, Flor",
+   "bb": [
+    "26.8592289",
+    "26.8667299",
+    "-80.0558879",
+    "-80.0466062"
+   ],
+   "cls": "leisure/golf_course"
+  },
+  {
+   "name": "Seminole Golf Club, Juno Beach, Palm Beach County, Florida, 33408, United States",
+   "bb": [
+    "26.8592200",
+    "26.8599714",
+    "-80.0477460",
+    "-80.0473034"
+   ],
+   "cls": "amenity/parking"
+  }
+ ],
+ "wingedfoot": [
+  {
+   "name": "Winged Foot Golf Club, Fenbrook Drive, Murdock Woods, Town of Mamaroneck, Westch",
+   "bb": [
+    "40.9543847",
+    "40.9705324",
+    "-73.7595799",
+    "-73.7481334"
+   ],
+   "cls": "leisure/golf_course"
+  }
+ ],
+ "friars": [
+  {
+   "name": "Friar's Head, Palane East, Baiting Hollow, Town of Riverhead, Suffolk County, Ne",
+   "bb": [
+    "40.9587662",
+    "40.9720906",
+    "-72.7392778",
+    "-72.7182115"
+   ],
+   "cls": "leisure/golf_course"
+  }
+ ],
+ "crystal": [
+  {
+   "name": "Crystal Downs Country Club, East Crystal Down Drive, Lake Township, Benzie Count",
+   "bb": [
+    "44.6956232",
+    "44.7056493",
+    "-86.2389542",
+    "-86.2143342"
+   ],
+   "cls": "leisure/golf_course"
+  }
+ ],
+ "lacc": [
+  {
+   "name": "Los Angeles Country Club, 10101, Wilshire Boulevard, Westwood, Los Angeles, Los ",
+   "bb": [
+    "34.0607795",
+    "34.0797644",
+    "-118.4294887",
+    "-118.4144517"
+   ],
+   "cls": "leisure/golf_course"
+  },
+  {
+   "name": "Los Angeles Country Club, Wilshire Boulevard, Westwood, Los Angeles, Los Angeles",
+   "bb": [
+    "34.0676159",
+    "34.0677159",
+    "-118.4224360",
+    "-118.4223360"
+   ],
+   "cls": "highway/bus_stop"
+  }
+ ],
+ "tcc": [
+  {
+   "name": "The Country Club, 191, Clyde Street, Buttonwood Village, South Brookline, Chestn",
+   "bb": [
+    "42.3080038",
+    "42.3189855",
+    "-71.1589949",
+    "-71.1423170"
+   ],
+   "cls": "leisure/golf_course"
+  }
+ ],
+ "riviera": [
+  {
+   "name": "Riviera Country Club, 1250, Capri Drive, Los Angeles, Los Angeles County, Califo",
+   "bb": [
+    "34.0400465",
+    "34.0505699",
+    "-118.5095295",
+    "-118.4948816"
+   ],
+   "cls": "club/yes"
+  },
+  {
+   "name": "Riviera Country Club, 500, Blue Road, Florida Pioneer Village, Coral Gables, Mia",
+   "bb": [
+    "25.7247869",
+    "25.7341461",
+    "-80.2818572",
+    "-80.2735021"
+   ],
+   "cls": "leisure/golf_course"
+  },
+  {
+   "name": "Riviera Country Club (Ormond Beach), 300, Golf Avenue, Ormond Beach, Volusia Cou",
+   "bb": [
+    "29.2536481",
+    "29.2599443",
+    "-81.0645709",
+    "-81.0525366"
+   ],
+   "cls": "leisure/golf_course"
+  }
+ ],
+ "muirfieldv": [
+  {
+   "name": "Muirfield Village Golf Club, 5750, Memorial Drive, Dublin, Washington Township, ",
+   "bb": [
+    "40.1370500",
+    "40.1514976",
+    "-83.1540736",
+    "-83.1287586"
+   ],
+   "cls": "leisure/golf_course"
+  }
+ ],
+ "oaklandhills": [
+  {
+   "name": "Oakland Hills Country Club, 3951, West Maple Road, Bloomfield Hills, Oakland Cou",
+   "bb": [
+    "42.5379109",
+    "42.5528094",
+    "-83.2792744",
+    "-83.2640496"
+   ],
+   "cls": "leisure/golf_course"
+  }
+ ],
+ "oakhill": [
+  {
+   "name": "Oak Hill Country Club, 145, Kilbourn Road, City of Rochester, Monroe County, New",
+   "bb": [
+    "43.1130473",
+    "43.1131473",
+    "-77.5326563",
+    "-77.5325563"
+   ],
+   "cls": "leisure/golf_course"
+  },
+  {
+   "name": "Oak Hill Country Club (East Course), 145, Kilbourn Road, City of Rochester, Monr",
+   "bb": [
+    "43.1042759",
+    "43.1195363",
+    "-77.5370233",
+    "-77.5228292"
+   ],
+   "cls": "leisure/golf_course"
+  },
+  {
+   "name": "Oak Hill Country Club (West Course), 145, Kilbourn Road, City of Rochester, Monr",
+   "bb": [
+    "43.1044415",
+    "43.1159942",
+    "-77.5450953",
+    "-77.5334828"
+   ],
+   "cls": "leisure/golf_course"
+  }
+ ],
+ "peachtree": [],
+ "pacificdunes": [],
+ "shadowcreek": [
+  {
+   "name": "Shadow Creek Golf Course, 5400, Losee Road, North Las Vegas, Clark County, Nevad",
+   "bb": [
+    "36.2544891",
+    "36.2614793",
+    "-115.1136123",
+    "-115.0989782"
+   ],
+   "cls": "leisure/golf_course"
+  }
+ ],
+ "prairie": [
+  {
+   "name": "Prairie Dunes Terrace, Belmont Country Club, Belmont, Loudoun County, Virginia, ",
+   "bb": [
+    "39.0586968",
+    "39.0603796",
+    "-77.5051270",
+    "-77.5035633"
+   ],
+   "cls": "highway/residential"
+  },
+  {
+   "name": "Prairie Dunes Court, Cherry Valley Country Club, Montgomery Township, Somerset C",
+   "bb": [
+    "40.3970340",
+    "40.3976560",
+    "-74.7073340",
+    "-74.7065700"
+   ],
+   "cls": "highway/residential"
+  }
+ ],
+ "lookaway": [
+  {
+   "name": "Lookaway Golf Club, 4219, Upper Mountain Road, Furlong, Buckingham Valley, Bucki",
+   "bb": [
+    "40.2933859",
+    "40.3089197",
+    "-75.0588365",
+    "-75.0439783"
+   ],
+   "cls": "leisure/golf_course"
+  },
+  {
+   "name": "Lookaway Golf Club, 4219, Upper Mountain Road, Furlong, Buckingham Valley, Bucki",
+   "bb": [
+    "40.3027826",
+    "40.3033545",
+    "-75.0536037",
+    "-75.0529701"
+   ],
+   "cls": "building/yes"
+  }
+ ]
+}
